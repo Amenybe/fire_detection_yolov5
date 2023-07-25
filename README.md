@@ -1,2 +1,3 @@
 # fire_detection_yolov5
-fire_detection
+RESULTS
+
