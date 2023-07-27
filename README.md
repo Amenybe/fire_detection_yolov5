@@ -12,6 +12,6 @@ torch
 Pillow
 tensorboard
 # References
- [YOLOv5]
- [ roboflow ]
+[ [YOLOv5]](https://github.com/ultralytics/yolov5)
+ [[ roboflow ]](https://roboflow.com/)https://roboflow.com/
 
