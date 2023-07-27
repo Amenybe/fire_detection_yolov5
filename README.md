@@ -12,6 +12,7 @@ torch
 Pillow
 tensorboard
 # References
- .YOLOv5
- .roboflow 
+ YOLOv5
+ 
+ roboflow 
 
