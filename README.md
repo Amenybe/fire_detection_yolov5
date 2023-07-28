@@ -28,6 +28,11 @@ This project aims to detect forest fires in images and videos by training a YOLO
 
 
 
+https://github.com/Amenybe/fire_detection_yolov5/assets/108427306/baf4be14-8d80-4bf6-8146-f67b068d6be3
+
+
+
+
 
 
 
